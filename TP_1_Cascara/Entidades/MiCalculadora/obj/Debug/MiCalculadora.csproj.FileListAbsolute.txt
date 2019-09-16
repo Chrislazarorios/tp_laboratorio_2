@@ -1,0 +1,14 @@
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\bin\Debug\Entidades.exe
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\bin\Debug\Entidades.exe.config
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb

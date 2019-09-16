@@ -1,0 +1,7 @@
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\bin\Debug\Entidades.exe.config
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\bin\Debug\Entidades.exe
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\bin\Debug\Entidades.pdb
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\obj\Debug\Entidades.exe
+E:\Backup Marzo 2017\Downloads\Pendrive\Prog-Lab-II-UTN-C#\TP_1_Cascara\TP_1_Cascara\Entidades\Entidades\obj\Debug\Entidades.pdb
